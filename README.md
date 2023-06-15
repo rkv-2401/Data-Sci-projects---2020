@@ -4,4 +4,5 @@
 
 #### Will soon be updated for better readability, other parts of this project will be included (this is just one week's work, part of a much bigger ML project) etc.
 
-##### Nov 2020 - Jan 2021
+##### Data Science on Telecom Churn : Nov 2020 - Jan 2021
+##### NLP projects : Feb 2021 - Apr 2021
